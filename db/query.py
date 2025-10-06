@@ -1,4 +1,4 @@
-from conection import db
+from connection import db
 
 query = db.cursor()
 
